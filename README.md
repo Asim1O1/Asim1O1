@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Asim Khadka 👋
 
-<!--
-**Asim1O1/Asim1O1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a computing student passionate about creating web applications and websites. I love building things on the web and continuously learning new technologies to enhance my skills.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** JavaScript, Java, Python, HTML, CSS
+- **Frameworks and Libraries:** Node.js, Express.js, React.js, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academic Background
+- **BSc (Hons) Computing** at Itahari International College
+  - Recently finished my 2nd year and currently on a break.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asim1O1&show_icons=true&theme=radical)
