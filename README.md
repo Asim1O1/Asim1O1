@@ -3,7 +3,9 @@ As a passionate web developer, I thrive on creating cutting-edge web application
 
 Currently, I'm focused on developing web applications and websites with exceptional user interfaces. I'm eager to collaborate on projects that demand responsive and dynamic experiences. At the same time, I'm looking for guidance to further enhance my skills in advanced web technologies.
 
-Discuss web development, front-end technologies, and dynamic application creation with me. I'm passionate about building extraordinary digital experiences that blend code and creativity, transcending mere functionality into breathtaking digital artistry.
+Discuss web development, front-end technologies, and dynamic application creation with me. I'm passionate about building extraordinary digital experiences that blend code and creativity.
+
+Woring as a Full-time web development intern at ING Skill Academy
 
 
 ## 🌐 Socials:
