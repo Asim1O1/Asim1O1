@@ -15,30 +15,24 @@
 
 ---
 
-## 🛠️ **Tech Arsenal**  
+## 🛠️ **Quantum Tech Arsenal** 
 
-### **Frontend**  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white)  
+### **Next-Gen Frontend Alchemy**
+![React](https://img.shields.io/badge/React-Reactor-%2361DAFB.svg?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Dark%20Matter-black?logo=next.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?logo=bun&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-Pulse-%23FF3E00.svg?logo=svelte&logoColor=white)
 
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/Socket.IO-black?logo=socket.io&logoColor=white)  
+### **Backend Quantum Realm**
+![Deno](https://img.shields.io/badge/Deno-Runtime%20Revolution-%23000000.svg?logo=deno&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Systems%20Sorcery-%23000000.svg?logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Concurrency%20King-%2300ADD8.svg?logo=go&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-JavaScript%20Accelerator-%23000000.svg?logo=bun&logoColor=white)
 
-### **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)  
-
-### **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=github-actions&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)  
+### **Bleeding-Edge DevOps**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration%20Maestro-%23326CE5.svg?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20Code-%23623CE4.svg?logo=terraform&logoColor=white)
+![WASM](https://img.shields.io/badge/WebAssembly-Performance%20Portal-%23654FF0.svg?logo=webassembly&logoColor=white)
 
 ---
 
