@@ -1,86 +1,70 @@
-# 🚀 **Hey there, I'm Asim!**  
-### 👨‍💻 **Full-Stack Engineer | Cloud Enthusiast | Tech Explorer**  
+# 👋 Hi, I'm Asim Khadka
 
-💡 Currently a **final-year BSc (Hons) Computing student** at **Itahari International College** (partnered with **London Metropolitan University**), crafting **cutting-edge web solutions** and exploring the boundaries of tech innovation.  
-🌟 Former **Web Development Intern** at **ING Skill Academy**, with a proven record of building **scalable, performance-driven applications** that redefine user experiences.  
-🌍 Currently working as a **Remote Intern** at **Neutroline**, contributing to innovative projects and expanding my expertise in modern tech stacks.  
+🎓 Just completed my **BSc (Hons) in Computing** from **Itahari International College**, affiliated with **London Metropolitan University**.  
+💻 I'm passionate about building **scalable full-stack applications**, exploring **cloud platforms**, and contributing to open-source projects.
+---
+
+## 💼 Experience
+
+### 🧑‍💻 Full-Stack Developer Intern – Neutroline Pvt. Ltd.  
+*Mar 2025 – May 2025*  
+- Developed the backend of an **appointment management system** using **Node.js**, **Express.js**, and **MongoDB**.  
+- Designed schemas and implemented **JWT authentication** with **role-based access control (RBAC)**.  
+- Integrated core appointment booking logic with the frontend.
+
+### 🌐 Web Development Intern – ING Skill Academy  
+*Jun 2024 – Sep 2024*  
+- Led a 5-member team to build a **cybersecurity learning platform** with quizzes, leaderboards, and blogs.  
+- Built responsive UI components using **React.js** and **Tailwind CSS**, achieving full mobile compatibility.  
+- Implemented secure admin controls and **location-based filters** to enhance UX.
 
 ---
 
-## ✨ **What I Bring to the Table**  
-- 🌐 **End-to-End Full-Stack Architect**: Designing and deploying apps that scale with modern tech stacks like **MERN** and **Next.js**.  
-- ☁️ **Cloud Enthusiast**: Exploring cloud platforms like **AWS** and **Vercel** to build scalable and efficient solutions.  
-- 💻 **Open-Source Contributor**: Crafting tools that empower developers and enhance enterprise practices.  
-- 🛠️ **Versatile Developer**: Proficient in **JavaScript**, **Python**, **Java**, and **C#**, with hands-on experience in **.NET MAUI** projects.  
+## 🧰 Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Redux Toolkit](https://img.shields.io/badge/-Redux--Toolkit-764ABC?logo=redux&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+**Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+
+**Other Tools & Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Khalti API](https://img.shields.io/badge/-Khalti%20Integration-purple)
 
 ---
 
-## 🛠️ **Quantum Tech Arsenal** 
-
-### **Next-Gen Frontend Alchemy**
-![React](https://img.shields.io/badge/React-Reactor-%2361DAFB.svg?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Dark%20Matter-black?logo=next.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?logo=bun&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-Pulse-%23FF3E00.svg?logo=svelte&logoColor=white)
-
-### **Backend Quantum Realm**
-![Deno](https://img.shields.io/badge/Deno-Runtime%20Revolution-%23000000.svg?logo=deno&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Systems%20Sorcery-%23000000.svg?logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Concurrency%20King-%2300ADD8.svg?logo=go&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-JavaScript%20Accelerator-%23000000.svg?logo=bun&logoColor=white)
-
-### **Bleeding-Edge DevOps**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration%20Maestro-%23326CE5.svg?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20Code-%23623CE4.svg?logo=terraform&logoColor=white)
-![WASM](https://img.shields.io/badge/WebAssembly-Performance%20Portal-%23654FF0.svg?logo=webassembly&logoColor=white)
 
 ---
 
-## 💼 **Where I've Left My Mark**  
+## 📈 GitHub Stats
 
-### **Web Development Intern @ [ING Skill Academy](#)**  
-- 🚀 Built **scalable APIs** with **Node.js** and **Express**, handling **100K+ daily requests**.  
-- 🎨 Developed sleek, responsive UIs with **React** and **TailwindCSS**, boosting UX metrics by **40%**.  
-- ⚡ Optimized backend performance with database tuning, slashing query times by **60%**.  
-- 🔗 Delivered **real-time systems** with **Socket.io**, maintaining **99.9% uptime**.  
-
-### **Remote Intern @ Neutroline**  
-- 🖥️ Contributing to **JavaScript-based projects**, focusing on modern web development practices.  
-- 🌐 Collaborating with a global team to deliver **scalable and efficient solutions**.  
-- 🔧 Gaining hands-on experience with **cloud technologies** and **DevOps practices**.  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asim1O1&theme=tokyonight&hide_border=true&count_private=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Asim1O1&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim1O1&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-## 🎯 **Current Mission**  
-- ☁️ Deepening my knowledge of **Cloud Computing** with platforms like **AWS** and **Vercel**.  
-- 🖥️ Exploring **WebAssembly** and **Edge Computing** for next-gen web applications.  
-- 📚 Expanding my expertise in **JavaScript** and **Python** for backend and automation.  
-- 🛠️ Building **open-source tools** to empower developers and streamline workflows.  
+## 🌐 Connect With Me
 
----
-
-## 🌐 **Let's Collaborate!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AsimKhadka)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asim1O1)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://asimkhadka.dev)  
-
-💬 Let’s build something groundbreaking together!  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://asimkhadka.dev)
 
 ---
 
-## 📊 **GitHub Analytics**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asim1O1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Asim1O1&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim1O1&theme=tokyonight&hide_border=true&layout=compact)  
+> 🚀 “I build secure, maintainable, and scalable systems to solve real-world problems that matter.”
 
----
-
-### **Key Highlights**  
-- 🎓 Pursuing **BSc (Hons) Computing** with a focus on modern software development and cloud technologies.  
-- 🛠️ Proficient in **MERN stack**, with experience in **Python**, **Java**, **C#**, and **.NET MAUI**.  
-- 🌟 Passionate about **open-source contributions** and building tools that empower developers.  
-
----
-
-**⚡ Crafting the future of tech, one line of code at a time!** ✨  
-![](https://komarev.com/ghpvc/?username=Asim1O1&color=blueviolet&style=flat-square)  
+![](https://komarev.com/ghpvc/?username=Asim1O1&color=blueviolet&style=flat-square)
