@@ -4,7 +4,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Asim1O1&color=0891b2&style=flat-square&label=Profile%20Views)
   
-  **Backend-Focused Full-Stack Developer | API Integration Specialist | Always Eager to Learn**
+  **Backend-Focused Full-Stack Developer | Always Eager to Learn**
   
   🎓 **BSc (Hons) in Computing** from **Itahari International College** (London Metropolitan University)
   
